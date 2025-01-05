@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rubarn](https://github.com/rubarn)
 
+- ⚡ Be sure to check out the readme files in my repos, where i discuss the process and final results of all my private projects.
+
 - 📫 How to reach me **ruben_r96@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
