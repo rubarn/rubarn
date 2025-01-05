@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to work in **IT in general, i have a broad interest**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at [https://github.com/rubarn](https://github.com/rubarn)
 
 - 📫 How to reach me **ruben_r96@hotmail.com**
 
